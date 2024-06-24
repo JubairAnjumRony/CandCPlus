@@ -1,1 +1,3 @@
-cout<<screen<<endl;
+ // if(a[0]==0){
+            //     count=count+1;
+            // }
