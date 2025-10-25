@@ -1,9 +1,10 @@
 {
-    "files.associations": {
-        "iostream": "cpp",
-        "bitset": "cpp",
-        "chrono": "cpp",
-        "algorithm": "cpp",
-        "ostream": "cpp"
-    }
+  "files.associations": {
+    "iostream": "cpp",
+    "bitset": "cpp",
+    "chrono": "cpp",
+    "algorithm": "cpp",
+    "ostream": "cpp",
+    "iosfwd": "cpp"
+  }
 }
